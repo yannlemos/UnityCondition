@@ -1,2 +1,2 @@
 # UnityCondition
-Odin-based Unity Engine components that allow the creation of conditional tests inside the inspector.
+Odin-based Unity Engine component that allows the creation of conditional tests inside the inspector.
