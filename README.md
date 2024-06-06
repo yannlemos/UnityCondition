@@ -1,5 +1,8 @@
 # UnityCondition
-Odin-based Unity Engine component that allows the creation of conditional tests inside the inspector.
+
+### Requires [Odin Inspector](https://odininspector.com/)
+
+Odin-based Unity Engine components that allows the creation of conditional tests inside the inspector.
 
 ![UnityCondition](https://github.com/yannlemos/UnityCondition/assets/16945950/0312ec6e-6561-4602-9e71-03c3435ccdf5)
 
