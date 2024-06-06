@@ -16,7 +16,7 @@ So I made this system based on two plug-and-play scripts that allow you to creat
 3. That's it.
 
 ## How It Works
-A Unity Conditional is a collection of statements constructed with game data and/or hard-coded values that, when evaluated, trigger either an `OnTrue` or an `OnFalse` UnityEvent. Game data means information pertinent to your game. You work with game data inside the `GameData.cs`, which is a singleton script responsible for being the place to ask for data in your game. It does this by using Enums, which are:
+A UnityCondition is a collection of statements constructed with game data and/or hard-coded values that, when evaluated, trigger either an `OnTrue` or an `OnFalse` UnityEvent. Game data means information pertinent to your game. You work with game data inside the `GameData.cs`, which is a singleton script responsible for being the place to ask for data in your game. It does this by using Enums, which are:
 
 - **NumericGameData**: Float values important to your game, like player health, player speed, current time of play session, and so on.
 - **BooleanGameData**: Boolean values important to your game, like is the player alive, is it daytime, has the boss spawned, and so on.
