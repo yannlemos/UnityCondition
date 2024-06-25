@@ -1,6 +1,7 @@
 # UnityCondition
 
-### Requires [Odin Inspector](https://odininspector.com/)
+> [!WARNING]
+> Requires [Odin Inspector](https://odininspector.com/)
 
 Odin-based Unity Engine components that allows the creation of conditional tests inside the inspector.
 
